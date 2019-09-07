@@ -4,9 +4,11 @@
   "name": "Ankit Chahar",
   "userimg": "https://avatars2.githubusercontent.com/u/14973472?v=4",
   "sort": "updated",
-  "email": "ankitchahar11@gmail.com",
-  "order": "asc",
+  "order": "desc",
   "includeFork": true,
-  "theme": "dark.css"
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ]
  }
 ]
